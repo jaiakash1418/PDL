@@ -1,0 +1,75 @@
+
+> stratavex@1.0.0 dev
+> vite --host --port 5173
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m2229[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.137.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.65.32:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m10:54:28 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ReportDetail.tsx[22m
+[2m10:54:37 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AppLayout.tsx[22m
+[2m10:54:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/AppLayout.tsx[22m
+[2m10:54:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/overlays.tsx[22m
+[2m10:55:41 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/main.tsx[22m
+[2m10:55:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m10:56:13 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui.tsx[22m
+[2m10:56:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui.tsx[22m
+[2m10:56:23 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/components/ui.tsx[22m Could not Fast Refresh (new export)
+[2m10:56:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/Tasks.tsx, /src/pages/Insights.tsx, /src/pages/Audit.tsx, /src/pages/Conflicts.tsx, /src/pages/Upload.tsx, /src/components/layout/AppLayout.tsx, /src/pages/Help.tsx, /src/pages/Query.tsx, /src/pages/ForgotPassword.tsx, /src/pages/Reports.tsx, /src/pages/Documents.tsx, /src/pages/Duplicates.tsx, /src/pages/DocumentDetail.tsx, /src/pages/Login.tsx, /src/pages/Validation.tsx, /src/pages/Overview.tsx, /src/pages/ReportDetail.tsx, /src/pages/Settings.tsx, /src/components/overlays.tsx, /src/components/layout/Topbar.tsx, /src/components/layout/Sidebar.tsx[22m
+[2m10:56:35 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Overview.tsx[22m
+[2m10:56:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Overview.tsx[22m
+[2m10:57:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Overview.tsx[22m
+[2m10:58:29 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx[22m
+[2m10:58:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx[22m
+[2m10:58:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx[22m
+[2m10:59:00 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx[22m
+[2m10:59:13 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx[22m
+[2m10:59:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx[22m
+[2m10:59:42 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Documents.tsx[22m
+[2m10:59:50 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Documents.tsx[22m
+[2m10:59:58 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Documents.tsx[22m
+[2m11:00:13 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Documents.tsx[22m
+[2m11:00:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Documents.tsx[22m
+[2m11:00:33 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Documents.tsx[22m
+[2m11:00:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui.tsx[22m
+[2m11:01:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Overview.tsx[22m
+[2m11:01:12 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Reports.tsx[22m
+[2m11:01:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DocumentDetail.tsx[22m
+[2m11:01:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DocumentDetail.tsx[22m
+[2m11:02:02 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DocumentDetail.tsx[22m
+[2m11:02:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DocumentDetail.tsx[22m
+[2m11:02:26 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DocumentDetail.tsx[22m
+[2m11:02:34 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Tasks.tsx[22m
+[2m11:02:42 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Tasks.tsx[22m
+[2m11:02:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Tasks.tsx[22m
+[2m11:03:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Validation.tsx[22m
+[2m11:03:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Validation.tsx[22m
+[2m11:03:27 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Validation.tsx[22m
+[2m11:03:35 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Validation.tsx[22m
+[2m11:03:45 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Validation.tsx[22m
+[2m11:04:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Duplicates.tsx[22m
+[2m11:04:37 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Duplicates.tsx[22m
+[2m11:04:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Duplicates.tsx[22m
+[2m11:05:00 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Duplicates.tsx[22m
+[2m11:05:15 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Duplicates.tsx[22m
+[2m11:05:27 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Conflicts.tsx[22m
+[2m11:05:39 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Conflicts.tsx[22m
+[2m11:05:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Conflicts.tsx[22m
+[2m11:06:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Conflicts.tsx[22m
+[2m11:06:20 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Conflicts.tsx[22m
+[2m11:06:31 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Insights.tsx[22m
+[2m11:06:41 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Insights.tsx[22m
+[2m11:06:54 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Insights.tsx[22m
+[2m11:07:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Insights.tsx[22m
+[2m11:07:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Audit.tsx[22m
+[2m11:07:26 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Audit.tsx[22m
+[2m11:07:38 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Audit.tsx[22m
+[2m11:07:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Audit.tsx[22m
+[2m11:07:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Audit.tsx[22m
+[2m11:08:12 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ReportDetail.tsx[22m
+[2m11:08:24 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ReportDetail.tsx[22m
+[2m11:10:44 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ReportDetail.tsx[22m
+[2m11:11:01 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ReportDetail.tsx[22m
